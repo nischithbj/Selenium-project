@@ -6,9 +6,10 @@ public class Practise {
 		// TODO Auto-generated method stub
 			System.out.println("hello selenium");
 			System.out.println("nischi");
-			System.out.println("dboss is gay");
+			System.out.println("dboss is men nither ");
 			System.out.println("dboss is GUY");
 			System.out.println("dboss");
+			System.out.println("dhas");
 	}
 
 }
