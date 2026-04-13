@@ -7,6 +7,7 @@ public class Practise {
 			System.out.println("hello selenium");
 			System.out.println("nischi");
 			System.out.println("dboss is gay");
+			System.out.println("dboss is gay");
 	}
 
 }
