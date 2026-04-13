@@ -9,7 +9,7 @@ public class Practise {
 			System.out.println("dboss is men nither ");
 			System.out.println("dboss is GUY");
 			System.out.println("dboss");
-			System.out.println("dhas");
+			System.out.println("dhass");
 	}
 
 }
