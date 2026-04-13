@@ -6,6 +6,7 @@ public class Practise {
 		// TODO Auto-generated method stub
 			System.out.println("hello selenium");
 			System.out.println("nischi");
+			System.out.println("dboss is gay");
 	}
 
 }
